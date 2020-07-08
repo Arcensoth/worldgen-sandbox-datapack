@@ -1,0 +1,15 @@
+{
+  "name": "wgs:dank_dungeon/starts",
+  "fallback": "wgs:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:bastion/bridge/starting_pieces/entrance_base",
+        "processors": "wgs:dank_dungeon_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

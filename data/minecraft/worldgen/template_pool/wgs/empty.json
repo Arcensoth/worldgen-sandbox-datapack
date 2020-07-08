@@ -1,0 +1,5 @@
+{
+  "name": "wgs:empty",
+  "fallback": "wgs:empty",
+  "elements": []
+}
